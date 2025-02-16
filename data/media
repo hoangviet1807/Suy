@@ -1,0 +1,115 @@
+[{
+  "_id": {
+    "$oid": "67a18764e2777acea97d8829"
+  },
+  "alt": "banner-noi-gi-nua",
+  "filename": "banner.jpg",
+  "mimeType": "image/jpeg",
+  "filesize": 512641,
+  "width": 3092,
+  "height": 1356,
+  "focalX": 50,
+  "focalY": 50,
+  "createdAt": {
+    "$date": "2025-02-04T03:20:04.499Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-04T03:20:04.499Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "67a18780e2777acea97d884b"
+  },
+  "alt": "door-to-no-where",
+  "filename": "door-to-0where.jpeg",
+  "mimeType": "image/jpeg",
+  "filesize": 187726,
+  "width": 640,
+  "height": 640,
+  "focalX": 50,
+  "focalY": 50,
+  "createdAt": {
+    "$date": "2025-02-04T03:20:32.353Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-04T03:20:32.353Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "67a1c610441a33cfce894906"
+  },
+  "alt": "thanh",
+  "filename": "thanh.jpg",
+  "mimeType": "image/jpeg",
+  "filesize": 71620,
+  "width": 700,
+  "height": 700,
+  "focalX": 50,
+  "focalY": 50,
+  "createdAt": {
+    "$date": "2025-02-04T07:47:28.639Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-04T07:47:28.639Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "67a1c625441a33cfce894933"
+  },
+  "alt": "new",
+  "filename": "new.jpeg",
+  "mimeType": "image/jpeg",
+  "filesize": 63653,
+  "width": 529,
+  "height": 640,
+  "focalX": 50,
+  "focalY": 50,
+  "createdAt": {
+    "$date": "2025-02-04T07:47:49.658Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-04T07:47:49.658Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "67a1c63e441a33cfce89496b"
+  },
+  "alt": "van-the",
+  "filename": "rung.jpg",
+  "mimeType": "image/jpeg",
+  "filesize": 516392,
+  "width": 1900,
+  "height": 1900,
+  "focalX": 50,
+  "focalY": 50,
+  "createdAt": {
+    "$date": "2025-02-04T07:48:14.450Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-04T07:48:14.450Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "67a1c69f441a33cfce894994"
+  },
+  "alt": "chuyen-rang",
+  "filename": "chuyen-rang.jpeg",
+  "mimeType": "image/jpeg",
+  "filesize": 188346,
+  "width": 640,
+  "height": 640,
+  "focalX": 50,
+  "focalY": 50,
+  "createdAt": {
+    "$date": "2025-02-04T07:49:51.941Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-04T07:49:51.941Z"
+  },
+  "__v": 0
+}]

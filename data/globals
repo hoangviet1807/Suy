@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "67a187a5e2777acea97d88ad"
+  },
+  "globalType": "homepage",
+  "banner": {
+    "$oid": "67a18764e2777acea97d8829"
+  },
+  "album": [
+    {
+      "title": "Door to nowhere",
+      "image": {
+        "$oid": "67a18780e2777acea97d884b"
+      },
+      "link": "/door-to-no-where",
+      "id": "67a18766217dddf1919e128b"
+    },
+    {
+      "title": "Thanh",
+      "image": {
+        "$oid": "67a1c610441a33cfce894906"
+      },
+      "link": "/thanh",
+      "id": "67a1c602217dddf1919e128d"
+    },
+    {
+      "title": "No2",
+      "image": {
+        "$oid": "67a1c625441a33cfce894933"
+      },
+      "link": "/",
+      "id": "67a1c616217dddf1919e128f"
+    },
+    {
+      "title": "Vẫn thế",
+      "image": {
+        "$oid": "67a1c63e441a33cfce89496b"
+      },
+      "link": "/",
+      "id": "67a1c62a217dddf1919e1291"
+    },
+    {
+      "title": "Chuyện rằng",
+      "image": {
+        "$oid": "67a1c69f441a33cfce894994"
+      },
+      "link": "/chuyen-rang",
+      "id": "67a1c68e217dddf1919e1293"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-04T03:21:09.585Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-12T09:06:10.165Z"
+  },
+  "__v": 0,
+  "video": "https://www.youtube.com/watch?v=RPQO37npkDY",
+  "albums": [
+    {
+      "$oid": "67ac186d1446516316f6e227"
+    },
+    {
+      "$oid": "67ac18811446516316f6e278"
+    },
+    {
+      "$oid": "67ac18991446516316f6e2cf"
+    }
+  ]
+}]

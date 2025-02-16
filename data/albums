@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "67ac186d1446516316f6e227"
+  },
+  "title": "Chuyện rằng",
+  "image": {
+    "$oid": "67a1c69f441a33cfce894994"
+  },
+  "link": "/chuyen-rang",
+  "createdAt": {
+    "$date": "2025-02-12T03:41:33.409Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-12T03:41:33.409Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "67ac18811446516316f6e278"
+  },
+  "title": "Thanh",
+  "image": {
+    "$oid": "67a1c610441a33cfce894906"
+  },
+  "link": "/thanh",
+  "createdAt": {
+    "$date": "2025-02-12T03:41:53.827Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-12T03:41:53.827Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "67ac18991446516316f6e2cf"
+  },
+  "title": "Vẫn thế",
+  "image": {
+    "$oid": "67a1c63e441a33cfce89496b"
+  },
+  "link": "/van-the",
+  "createdAt": {
+    "$date": "2025-02-12T03:42:17.164Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T02:58:11.117Z"
+  },
+  "__v": 0,
+  "songs": [
+    {
+      "name": "van the",
+      "link": "/van-the",
+      "lyrics": "",
+      "thumbnail": {
+        "$oid": "67a1c63e441a33cfce89496b"
+      },
+      "id": "67ad5efc05f28b129dc06317"
+    }
+  ]
+}]
